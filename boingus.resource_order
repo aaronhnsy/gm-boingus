@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Fonts","order":4,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Blocks","order":2,"path":"folders/Objects/Blocks.yy",},
@@ -11,23 +11,23 @@
     {"name":"Players","order":4,"path":"folders/Sprites/Players.yy",},
     {"name":"Tilesets","order":1,"path":"folders/Sprites/Tilesets.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
+    {"name":"fMainMenu","order":1,"path":"fonts/fMainMenu/fMainMenu.yy",},
+    {"name":"oBarrier","order":1,"path":"objects/oBarrier/oBarrier.yy",},
+    {"name":"oBarrierDeath","order":2,"path":"objects/oBarrierDeath/oBarrierDeath.yy",},
+    {"name":"oMenu","order":1,"path":"objects/oMenu/oMenu.yy",},
+    {"name":"oSlimeBlock","order":3,"path":"objects/oSlimeBlock/oSlimeBlock.yy",},
+    {"name":"oSlimePlayer","order":1,"path":"objects/oSlimePlayer/oSlimePlayer.yy",},
+    {"name":"rLevelOne","order":1,"path":"rooms/rLevelOne/rLevelOne.yy",},
     {"name":"change_difficulty","order":7,"path":"scripts/change_difficulty/change_difficulty.yy",},
     {"name":"exit_level","order":2,"path":"scripts/exit_level/exit_level.yy",},
-    {"name":"tsCobblestone","order":1,"path":"tilesets/tsCobblestone/tsCobblestone.yy",},
-    {"name":"fMainMenu","order":1,"path":"fonts/fMainMenu/fMainMenu.yy",},
-    {"name":"sBarrierDeath","order":1,"path":"sprites/sBarrierDeath/sBarrierDeath.yy",},
-    {"name":"oSlimeBlock","order":3,"path":"objects/oSlimeBlock/oSlimeBlock.yy",},
-    {"name":"resume_game","order":5,"path":"scripts/resume_game/resume_game.yy",},
     {"name":"pause_game","order":4,"path":"scripts/pause_game/pause_game.yy",},
-    {"name":"oMenu","order":1,"path":"objects/oMenu/oMenu.yy",},
-    {"name":"oSlimePlayer","order":1,"path":"objects/oSlimePlayer/oSlimePlayer.yy",},
-    {"name":"start_game","order":1,"path":"scripts/start_game/start_game.yy",},
-    {"name":"restart_level","order":3,"path":"scripts/restart_level/restart_level.yy",},
     {"name":"quit_game","order":6,"path":"scripts/quit_game/quit_game.yy",},
-    {"name":"oBarrierDeath","order":2,"path":"objects/oBarrierDeath/oBarrierDeath.yy",},
-    {"name":"oBarrier","order":1,"path":"objects/oBarrier/oBarrier.yy",},
+    {"name":"restart_level","order":3,"path":"scripts/restart_level/restart_level.yy",},
+    {"name":"resume_game","order":5,"path":"scripts/resume_game/resume_game.yy",},
+    {"name":"start_game","order":1,"path":"scripts/start_game/start_game.yy",},
+    {"name":"sBarrierDeath","order":1,"path":"sprites/sBarrierDeath/sBarrierDeath.yy",},
     {"name":"sSlimeBlock","order":2,"path":"sprites/sSlimeBlock/sSlimeBlock.yy",},
-    {"name":"rLevelOne","order":1,"path":"rooms/rLevelOne/rLevelOne.yy",},
+    {"name":"tsCobblestone","order":1,"path":"tilesets/tsCobblestone/tsCobblestone.yy",},
   ],
 }
